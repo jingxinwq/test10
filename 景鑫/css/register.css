@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document */
+#syeu{
+	width: 100%;
+	height: 570px;
+	background-color:#f9f9f9; 
+}
+#syeu main{
+	 padding: 60px 0 50px;
+	 height: 460px;
+}
+#syeu main .hse{
+    width: 600px;
+    height: 460px;
+    overflow: hidden;
+    background-color: #fff;
+    background: url(../image/register/a106cd06-2a41-483d-a4a2-9babbfc5f3ac.jpg);
+    background-size: 600px 460px;
+}
+#syeu main .shes{
+	width: 560px;
+	margin-left: 30px;
+	background-color:#fff; 
+	height: 460px;
+}
+#syeu main .shes p{
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 30px;
+	border-bottom:3px solid #e5004f;
+	margin-bottom: 20px;
+	margin-top:20px;
+}
+#syeu main .shes form ul li{
+	height: 60px;
+	line-height: 60px;
+	font-size: 14px;
+
+}
+#syeu main .shes form ul li:nth-child(5){
+	height: 60px;
+	line-height: 30px;
+
+}
+#syeu main .shes form ul li span:nth-of-type(1){
+	display: inline-block;
+	width: 70px;
+
+}
+#syeu main .shes form ul li span:nth-of-type(2){
+color: #888;
+
+}
+#syeu main .shes form ul li input{
+	display: inline-block;
+	height: 30px;
+	width: 200px;
+
+}
+#syeu main .shes form ul li:nth-child(6){
+		height: 40px;
+}
+#syeu main .shes form ul li:nth-child(6) #button1{
+	width: 140px;
+	height: 40px;
+	line-height: 40px;
+	background-color: #e5004f;
+	border: 0px;
+	color: #fff;
+	margin:0 auto;
+	text-align: center;
+	vertical-align: middle;
+
+
+}
+#syeu main .shes form ul li:nth-child(4){
+	position: relative;
+}
+#syeu main .shes form ul li:nth-child(4) .display{
+	display: inline-block;
+	width: 70px;
+	height: 32px;
+	position: absolute;
+	top:13px;
+	left: 300px;
+	line-height: 32px;
+	border: 1px solid #aaa;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

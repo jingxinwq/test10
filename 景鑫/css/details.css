@@ -1,0 +1,478 @@
+main{
+	width: 100%;
+	overflow: hidden;
+	background: #f4f4f4;
+	border-top: 1px solid #000;
+}
+main #yers .stxda{
+	background: #f4f4f4;
+    height: 46px;
+    padding: 0 0 0 20px;
+    width: 1170px;
+    line-height: 46px;
+}
+main #yers .stxda span{
+	color: #666;
+    margin: 0 3px 0 0;
+}
+main #yers .shtr{
+	background: #fff;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+main #yers .shtr .zyxt{
+	width: 435px;
+	z-index: 11;
+    position: relative;
+    padding: 20px 0 10px;
+    zoom: 1;
+    background: #fff;
+    clear: both;
+    height: 482px;
+}
+main #yers .shtr .zyxt .etalage_wrap{
+	width: 328px;
+	height: 400px;
+	margin:0 auto;
+}
+main #yers .shtr .zyxt .etalage_wrap #etalage .etalage_small_thumbs .clearfix img{
+    height: 53px!important;
+	width: 40px !important;
+	
+}
+main #yers .shtr .zyxt .etalage_wrap #etalage .etalage_small_thumbs .clearfix li{
+	opacity: 1!important;
+}
+main #yers .shtr .syeb{
+	width: 500px;
+    padding: 20px 0 10px;
+    font-size: 14px;
+}
+main #yers .shtr .syeb h1{
+	font: normal 18px/1.5 "Microsoft Yahei",Verdana,simsun,serif;
+    color: #000;
+    margin-bottom: 20px;
+}
+main #yers .shtr .syeb .wer3{
+	color: #999;
+    margin-bottom: 30px;
+    cursor: default;
+    width: 500px;
+}
+main #yers .shtr .syeb .wer3 p:nth-child(1){
+	height: 25px;
+    line-height: 25px;
+    vertical-align: middle;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+main #yers .shtr .syeb .wer3 p:nth-child(1) span{
+	color: #e5004f;
+    font-size: 24px;
+    vertical-align: baseline;
+    display: inline-block;
+}
+main #yers .shtr .syeb .wer3 p:nth-child(2){
+	height: 25px;
+    line-height: 25px;
+    vertical-align: middle;
+    font-size: 14px;
+}
+main #yers .shtr .syeb .wer3 p:nth-child(2) span{
+    text-decoration: line-through;
+    margin-right: 2px;
+}
+main #yers .shtr .syeb .wexz{
+	height: 24px;
+	width: 495px;
+    background: #eff0f4;
+    padding: 5px 0 5px 4px;
+    font-size: 0;
+    margin-bottom: 10px;
+}
+main #yers .shtr .syeb .wexz span{
+    height: 20px;
+    line-height: 20px;
+    display: inline-block;
+    text-align: center;
+    margin: 0 6px;
+    width: auto;
+    padding: 0 10px;
+    line-height: 20px;
+    display: inline-block;
+    height: 20px;
+    font-size: 12px;
+    color: #fff;
+    font-weight: normal;
+    float: left;
+    margin: 0;
+    background: red;
+}
+main #yers .shtr .syeb .wexz a{
+	    color: #666;
+    text-decoration: none;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+main #yers .shtr .syeb .sxcf{
+	    width: 475px;
+    position: relative;
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(1){
+	overflow: hidden;
+    width: 475px;
+    margin-top: 5px;
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(1) dt{
+	    float: left;
+    color: #999;
+    line-height: 20px;
+    width: 100px;
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(1) dd{
+	float: left;
+    overflow: hidden;
+    width: 370px;
+    margin: 0 5px 5px 0;
+    display: inline-block;
+    position: relative;
+    border-color:red; 
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(1) dd b{
+	position: absolute;
+    top:30px;
+    left: 53px;
+    width: 10px;
+    height: 10px;
+    overflow: hidden;
+    background: url(../image/details/icon.png) no-repeat 0 -240px;
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(1) dd a{
+	border: 1px solid #ccc;
+    padding: 4px;
+    display: inline-block;
+    white-space: nowrap;
+    height: 30px;
+    line-height: 30px;
+    background: #fff;
+    cursor: pointer;
+    color: #000;
+    width: auto;
+    border:2px solid red; 
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(1) dd a img{
+    width: auto;
+    height: 30px;
+    vertical-align: middle;
+    display: inline-block;
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(1) dd a span{
+	font-size: 12px;
+    color: #000;
+    vertical-align: middle;
+    white-space: nowrap;
+    display: inline-block;
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(2){
+overflow: hidden;
+    width: 475px;
+    float: left;
+    margin-top: 5px;
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(2) dt{
+	float: left;
+    color: #999;
+    line-height: 20px;
+    width: 100px;
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(2) dd{
+	float: left;
+    overflow: hidden;
+    width: 370px;
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(2) dd div{
+	margin: 0 5px 5px 0;
+    display: inline-block;
+    position: relative;
+    border: 1px solid #bbb;
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(2) dd div a{
+	min-width: 30px;
+    white-space: nowrap;
+    display: inline-block;
+    padding: 1px 12px;
+    height: 21px;
+    line-height: 21px;
+    text-align: center;
+    vertical-align: bottom;
+    padding: 0 11px;
+}
+main #yers .shtr .syeb .sxcf dl:nth-child(2) dd div b{
+	position: absolute;
+    top:12px;
+    left: 42px;
+    width: 10px;
+    height: 10px;
+    overflow: hidden;
+    background: url(../image/details/icon.png) no-repeat 0 -240px;
+    display: none;
+}
+
+main #yers .shtr .syeb .sxcf .wsdfr{
+	    clear: both;
+    height: 40px;
+    padding-top: 10px;
+}
+main #yers .shtr .syeb .sxcf .wsdfr .sqw{
+	font-size: 0;
+    float: left;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    height: 38px;
+    line-height: 40px;
+}
+main #yers .shtr .syeb .sxcf .wsdfr .sqw .f1 input{
+	    outline: none;
+    border: 0px solid #e9e9e9;
+    border-right-width: 1px;
+    width: 49px;
+    height: 38px;
+    line-height: 38px;
+    background-color: #fff;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 22px;
+    color: #000;
+    vertical-align: bottom;
+    box-sizing: border-box;
+    border-bottom: 1px solid #ccc;
+}
+main #yers .shtr .syeb .sxcf .wsdfr .sqw .f2 a:first-child{
+	width: 38px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 20px;
+    overflow: hidden;
+    color: ;
+    display: block;
+    text-align: center;
+    vertical-align: middle;
+    background: #ddd url(../image/details/icon.png) no-repeat 0 -157px
+}
+main #yers .shtr .syeb .sxcf .wsdfr .sqw .f2 a:last-child{
+	    width: 38px;
+    height: 19px;
+    line-height: 19px;
+    font-size: 20px;
+    overflow: hidden;
+    color: #ddd;
+    display: block;
+    text-align: center;
+    vertical-align: middle;
+    background: #ddd url(../image/details/icon.png) no-repeat 0 -176px;
+    border-bottom: 1px solid #ccc;
+}
+
+main #yers .shtr .syeb .sxcf .wsdfr .stexs #j1{
+	cursor: pointer;
+    width: 150px;
+    border: none;
+    outline: none;
+    margin-right: 10px;
+    height: 40px;
+    float: left;
+    text-indent: -999px;
+    overflow: hidden;	
+    background: #e5004f url(../image/details/button_v2.png) 0 -560px no-repeat;
+}
+main #yers .shtr .syeb .sxcf .wsdfr .stexs #j2{
+	cursor: pointer;
+    width: 150px;
+    border: none;
+    outline: none;
+    margin-right: 10px;
+    height: 40px;
+    float: left;
+    text-indent: -999px;
+    overflow: hidden;
+    background: #e5004f url(../image/details/button_v2.png) no-repeat 0 -40px;
+}
+main #yers .shtr .syeb .swb{
+	    width: 500px;
+    margin: 20px 0;
+    height: 30px;
+}
+main #yers .shtr .syeb .swb dl{
+	font-size: 12px;
+    background: #f7f3e8;
+    overflow: hidden;
+    zoom: 1;
+}
+main #yers .shtr .syeb .swb dl dt{
+    width: 75px;
+    height: 30px;
+    line-height: 30px;
+    text-indent: 12px;
+    color: #444;
+    background-color: #f7f3e8;
+}
+main #yers .shtr .syeb .swb dl dd{
+	width: 425px;
+}
+main #yers .shtr .syeb .swb dl dd span{
+	padding-left: 20px;
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    background: url(../image/details/icon.png) 0 -40px no-repeat;
+    margin-right: 10px;
+    white-space: nowrap;
+}
+
+main #yers .shtr .syex{
+	width: 225px;
+    float: left;
+    background: #fff;
+    height: 100%;
+    padding: 30px 0;
+}
+main #yers .shtr .syex .sexz{
+	width: 210px;
+    height: 110px;
+    padding-top: 25px;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    text-align: center;
+    margin: 0 auto;
+}
+main #yers .shtr .syex .sexz img{
+	display: block;
+	margin:0 auto;
+	width: 90px;
+	height: 60px;
+}
+main #yers .shtr .syex .sexz h4{
+	    font-size: 15px;
+    font-weight: normal;
+    padding-top: 15px;
+}
+main #yers .sxdf{
+	overflow: hidden;
+	margin-top: 10px;
+	margin-bottom: 20px;
+
+}
+main #yers .sxdf .stri{
+	    width: 990px;
+	    overflow: hidden;	
+	    background-color:#fff; 
+}
+main #yers .sxdf .stri .syerc{
+	position: relative;
+    left: 0px;
+    top: 0px;
+	height: 30px;
+    width: 990px;
+    z-index: 1;
+    zoom: 1;
+    background: #999;
+}
+main #yers .sxdf .stri .syerc ul li{
+    width: 120px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #fff;
+    background: #999;
+    border-right: 1px solid #fff;
+    cursor: pointer;
+}
+main #yers .sxdf .stri .sbgf{
+	width: 920px;
+    padding: 0 35px;
+    overflow: hidden;
+    background-color:#fff; 
+}
+main #yers .sxdf .stri .sbgf .xcr{
+	padding-bottom: 15px;
+	background: url(../image/details/1484653561.png) no-repeat;
+	height: 183px;
+}
+main #yers .sxdf .stri .sbgf .smj{
+	height: 48px;
+	background: url(../image/details/1484655387.png) no-repeat;
+}
+main #yers .sxdf .stri .sbgf ul{
+	padding: 10px 0 0;
+    text-align: center;
+    width: 790px;
+    margin:0 auto;
+}
+main #yers .sxdf .stri .sbgf ul li:nth-child(1){
+	background: url(../image/details/yintai_4881b2ac-c76b-4f92-b8fd-12a90c665431.jpg);
+	height: 1180px;
+}
+main #yers .sxdf .stri .sbgf ul li:nth-child(2){
+	background: url(../image/details/yintai_570dbd33-73de-469f-8b31-7dea1c93dda1.jpg);
+	height: 1041px;
+}
+main #yers .sxdf .stri .sbgf ul li:nth-child(3){
+	background: url(../image/details/yintai_59af97b8-3186-4fa7-9d97-b6491774639f.jpg);
+	height: 878px;
+}
+main #yers .sxdf .stri .sbgf ul li:nth-child(4){
+	background: url(../image/details/yintai_576ae772-5573-4de7-a512-bb35cbd0bab3.jpg);
+	height: 878px;
+}
+main #yers .sxdf .stri .sbgf ul li:nth-child(5){
+	background: url(../image/details/yintai_691c3e62-6fb1-4bf7-b241-acc9c053bee1.jpg);
+	height: 878px;
+}
+main #yers .sxdf .stri .sbgf ul li:nth-child(6){
+	background: url(../image/details/yintai_bde1199b-b59b-4925-8554-71748fdfca8b.jpg);
+	height: 878px;
+}
+main #yers .sxdf .zxbn{
+	    width: 190px;
+    background: #fff;
+    margin-left: 10px;
+}
+
+main #yers .sxdf .zxbn h1{
+	    color: #fff;
+    background: #999;
+    width: 180px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+    font-size: 15px;
+}
+main #yers .sxdf .zxbn ul li{
+	    margin: 0 auto;
+    text-align: center;
+    overflow: hidden;
+}
+main #yers .sxdf .zxbn ul li img{
+	display: block;
+	width: 120px;
+	height: 160px;
+	padding: 15px 0;
+	margin: 0 auto;
+
+}
+main #yers .sxdf .zxbn ul li p strong{
+	color: red;
+}
+main #yers .sxdf .zxbn ul li p span{
+	text-decoration: line-through;
+}
+
+
+
+
+
+
+
+
+

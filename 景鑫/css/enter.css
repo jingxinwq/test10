@@ -1,0 +1,171 @@
+
+main{
+	width: 100%;
+	height: 570px;
+	background: #f9f9f9
+}
+main .etrw{
+	height: 460px;
+	padding: 60px 0 50px;
+	width:1190px;
+	margin:0 auto;
+}
+main .etrw .dgr{
+	width: 780px;
+    height: 460px;
+    overflow: hidden;
+    background-color: #fff;
+    background-image:url(../image/enter/a106cd06-2a41-483d-a4a2-9babbfc5f3ac.jpg); 
+}
+main .etrw .sder{
+	width: 385px;
+    height: 460px;
+    border-radius: 3px;
+    z-index: 1;
+    overflow: hidden;
+    background-color: #fff;
+    margin-left: 20px;
+}
+main .etrw .sder .eew{
+	height: 370px;
+
+}
+main .etrw .sder .eew .dfc{
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 16px;
+	border-bottom:2px solid #ccc; 
+}
+main .etrw .sder .eew .serd{
+	height: 250px;
+	margin-top: 40px;
+}
+main .etrw .sder .eew .serd .cvf{
+	 position: relative;
+    height:39px;
+    line-height: 39px;
+    background: #fff;
+    padding: 10px 18px;
+    border-top: 1px solid #d5d5d5;
+}
+main .etrw .sder .eew .serd .cvf img{
+	display: inline-block;
+	width: 26px;
+    height: 26px;
+        vertical-align: middle;
+    margin-right: 20px;
+}
+main .etrw .sder .eew .serd .cvf #name1{
+	height: 39px;
+    line-height: 39px;
+    width: 80%;
+    font-size: 16px;
+    color: #666;
+    border: 0px;
+}
+main .etrw .sder .eew .serd .xcf{
+	 position: relative;
+    height:39px;
+    line-height: 39px;
+    background: #fff;
+    padding: 10px 18px;
+    border-top: 1px solid #d5d5d5;
+    border-bottom: 1px solid #d5d5d5;
+}
+main .etrw .sder .eew .serd .xcf img{
+	display: inline-block;
+	width: 26px;
+    height: 26px;
+        vertical-align: middle;
+    margin-right: 20px;
+}
+main .etrw .sder .eew .serd .xcf #password1{
+	height: 39px;
+    line-height: 39px;
+    width: 80%;
+    font-size: 16px;
+    color: #666;
+    border: 0px;
+}
+main .etrw .sder .eew .serd .scd{
+	 margin: 10px;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+    background-color: #e5004f;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 20px;
+}
+main .etrw .sder .eew .serd .sye{
+	height: 30px;
+	line-height: 30px;
+	font-size: 15px;
+}
+main .etrw .sder .eew .serd .sye span{
+	display: inline-block;
+	width: 270px;
+}
+main .etrw .sder .wsdc{
+	height: 40px;
+	padding: 18px 0;
+    clear: both;
+
+}
+main .etrw .sder .wsdc .sedx{
+    position: relative;
+    height: 24px;
+    text-align: center;
+    margin: 0 20px;
+}
+main .etrw .sder .wsdc .sedx h3{
+	position: relative;
+    z-index: 2;
+    display: inline-block;
+    height: 24px;
+    padding: 0 5px;
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+    background-color: #fff;
+    color: #999;
+}
+main .etrw .sder .wsdc .sedx p{
+	width: 100%;
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+    height: 1px;
+    overflow: hidden;
+    background-color: #ccc;
+}
+
+main .etrw .sder .wsdc .sxfd{
+	 clear: both;
+    line-height: 24px;
+    text-align: center;
+    color: #999;
+}
+main .etrw .sder .wsdc .sxfd a{
+	display: inline-block;
+    height: 20px;
+    margin: 0 5px;
+    color: #999;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

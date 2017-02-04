@@ -1,0 +1,202 @@
+@charset "utf-8";
+/* CSS Document */
+#ydhs{
+	background: #eee;
+
+}
+#hetus{
+	overflow: hidden;
+}
+#hetus .sidud{
+	height: 40px;
+    padding: 0 14px;
+    font-family: "微软雅黑";
+    line-height: 40px;
+    margin-top: 15px;
+}
+#hetus .sidud ul li{
+	background: url(../image/list/shu-line.jpg) no-repeat scroll right 11px;
+    padding-left: 10px;
+    position: relative;
+    padding-right: 10px;
+    z-index: 3;
+    height: 33px;
+    line-height: 33px;
+}
+#hetus .sidud ul li a{
+	padding: 0px 15px;
+    display: block;
+    white-space: nowrap;
+
+}
+#hetus .sidud ul li a b{
+	 width: 8px;
+    height: 5px;
+    display: inline-block;
+    background: url(../image/list/xuan-bg.jpg);
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+#hetus .sudi{
+	border-top: 2px solid #000;
+
+    border-bottom: 2px solid #000;
+
+    background: #fff;
+}
+#hetus .sudi div:nth-child(1){
+	padding: 0 30px;
+    border-bottom: solid 1px #e1e1e1;
+    height:40px;
+}
+#hetus .sudi div:nth-child(1) dl dt{
+	width: 70px;
+    color: #333;
+    font: 16px/1.5 "微软雅黑";
+	vertical-align: top;
+    display:block;
+    height: 40px;
+}
+#hetus .sudi div:nth-child(1) dl dd{
+	    float: left;
+    display: inline;
+	width: 960px;
+}
+#hetus .sudi div:nth-child(1) dl dd ul li{
+	width: 175px;
+    padding-right: 17px;
+    height: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-right: 0;
+}
+#hetus .sudi div:nth-child(2){
+	padding: 0 30px;
+    border-bottom: solid 1px #e1e1e1;
+    height: 30px;
+}
+#hetus .sudi div:nth-child(2) dl dt{
+	 width: 70px;
+    color: #333;
+    font: 16px/1.5 "微软雅黑";
+    display: inline-block;
+
+}
+
+#hetus .sudi div:nth-child(2) dl dd{
+	    display: inline-block;
+	        width: 960px;
+}
+
+#hetus .sudi div:nth-child(2) dl dd a{
+	height: 28px;
+	padding-right: 25px;
+
+}
+#hetus .sudi div:nth-child(3){
+	    padding: 0 30px;
+	    height: 40px;
+}
+#hetus .sudi div:nth-child(3) dl dt{
+	width: 70px;
+    color: #333;
+    font: 16px/1.5 "微软雅黑";
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+#hetus .sudi div:nth-child(3) dl dd{
+	display: inline-block;
+	width: 960px;
+	height: 28px;
+}
+#hetus .sudi div:nth-child(3) dl dd ul{
+	height: 30px;
+	line-height: 30px;
+}
+#hetus .sudi div:nth-child(3) dl dd ul li{
+	margin-right: 25px;
+
+}
+#hetus .sudi div:nth-child(3) dl dd ul li:last-child input{
+	width: 45px;
+
+}
+
+#hetus .dsysdn{
+	height: 35px;
+	margin:10px 0;
+	width: 1420px;
+	background: #666;
+}
+#hetus .dsysdn ul li{
+	height: 35px;
+	width: 68px;
+	line-height: 35px;
+	text-align: center;
+	font-size: 14px;
+	color: #fff;
+}
+
+#hetus .sydn{
+	overflow: hidden;
+}
+#hetus .sydn .hdsg .sidx{
+	width: 228px;
+    border: 2px solid #f4f4f4;
+    margin: 3px;
+    background: #fff;
+    float: left;
+    height: 454px;
+}
+#hetus .sydn .hdsg .sidx:hover{
+        border: 2px solid red;
+}
+#hetus .sydn .hdsg .sidx .eed{
+    height: 304px;
+    width: 228px;
+    margin-bottom: 10px;
+}
+#hetus .sydn .hdsg .sidx .dtst{
+	margin-bottom: 10px;
+    width: 228px;
+    height: 57px;
+    margin-left: 10px;
+}
+#hetus .sydn .hdsg .sidx .dtst .shds{
+    float: left;
+	border: 1px solid #e2e2e2;
+    width: 40px;
+    height: 53px;
+    padding: 1px;
+    margin: 0 4px;
+}
+#hetus .sydn .hdsg .sidx .idf{
+	padding: 0 12px 5px;
+    color: red;
+    font-weight: 800;
+    font-size: 14px;
+}
+#hetus .sydn .hdsg .sidx .sdif{   
+	padding: 0 12px 5px;
+    overflow: hidden;
+    height: 41px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

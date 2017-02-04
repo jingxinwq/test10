@@ -1,0 +1,482 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/**************最顶部*******************/
+#head{
+	border-bottom: 1px solid #fff;
+	background: #eee;
+	height: 34px;
+
+}
+#head .start .first li{
+	position: relative;
+
+
+}
+#head .start .first li:nth-child(1) a{
+	width: 75px;
+	line-height: 34px;
+	display: block;
+	padding-left: 27px;
+	margin:0 6px; 
+	box-sizing: border-box; 
+}
+#head .start .first li:nth-child(1) a span{
+	position: absolute;
+	width: 21px;
+    height: 21px;
+    top: 7px;
+    left: 6px;
+	background: url(../image/index/header-02.png) no-repeat -225px 0;
+}
+#head .start .first li:nth-child(2),#head .start .first li:nth-child(4){
+	width: 0;
+	height: 14px;
+	line-height: 14px;
+	position: relative;
+	top: 10px;
+	left: 0;
+	border-left:1px solid #ccc;
+	margin: 0 4px;
+}
+#head .start .first li:nth-child(3) a{
+	width: 77px;
+    margin: 0;
+    padding: 0 6px 0 31px;
+    box-sizing: border-box; 
+    line-height: 34px;
+    display: block;
+}
+#head .start .first li:nth-child(3) a span{
+	position: absolute;
+	width: 21px;
+    height: 21px;
+    top: 7px;
+    left: 6px;
+	background: url(../image/index/header-02.png) no-repeat -225px -57px;
+}
+#head .start .first li:nth-child(3) a b{
+	position: absolute;
+    left: 62px;
+    top: 16px;
+    width: 9px;
+    height: 5px;
+    background: url(../image/index/header-01.png) -175px -111px no-repeat
+}
+#head .start .first li:nth-child(5) a{
+	width: 100px;
+    margin: 0;
+    padding-left: 28px;
+    box-sizing: border-box; 
+    line-height: 34px;
+    display: block;
+}
+#head .start .first li:nth-child(5):hover a{
+	width: 136px;
+	background: #fff;
+	border:1px solid #ccc;
+	border-bottom: 0px;
+	box-sizing: border-box;
+}
+#head .start .first li:nth-child(5) a span{
+	position: absolute;
+	width: 21px;
+    height: 21px;
+    top: 7px;
+    left: 6px;
+	background: url(../image/index/phone.png) no-repeat center 1px;
+}
+#head .start .first li:nth-child(5):hover a span{
+	background: url(../image/index/phone.png) no-repeat center  -20px;
+}
+#head .start .first li:nth-child(5) a b{
+    position: absolute;
+    left: 82px;
+    top: 16px;
+    width: 9px;
+    height: 5px;
+    background: url(../image/index/header-01.png) -175px -111px no-repeat;
+}
+#head .start .first li:nth-child(5):hover a b{
+    background: url(../image/index/header-01.png) -175px -128px no-repeat;
+}
+#head .start .first li:nth-child(5) p{
+	display: none;
+	position: absolute;
+	top:34px;
+	left: 0px;
+	z-index: 1000;
+	border:1px solid #ccc;
+	border-top: 0px;
+	box-sizing: border-box;
+}
+#head .start .first li:nth-child(5):hover p{
+	display: block;
+}
+#head .start .last li{
+	position: relative;
+	height: 34px;
+}
+#head .start .last li a{
+	line-height: 34px;
+
+}
+#head .start .last li:nth-child(1){
+	width: 196px;
+	padding-right: 10px;
+	box-sizing: border-box;
+
+}
+#head .start .last li:nth-child(1) a:nth-of-type(1){
+	margin-right: 10px;
+}
+#head .start .last li:nth-child(2),
+#head .start .last li:nth-child(4),
+#head .start .last li:nth-child(6),
+#head .start .last li:nth-child(8){
+	width: 0;
+	height: 14px;
+	line-height: 14px;
+	position: relative;
+	top: 10px;
+	left: 0;
+	border-left:1px solid #ccc;
+	margin: 0 2px;
+}
+#head .start .last li:nth-child(3) a{
+	padding:0px 10px;
+}
+#head .start .last li:nth-child(5) a{
+	display: block;
+	width: 82px;
+	box-sizing: border-box;
+	padding: 0px 10px ;
+}
+#head .start .last li:nth-child(5):hover>a{
+	background: #fff;
+	border:1px solid #ccc;
+	border-bottom: 0px;
+}
+#head .start .last li:nth-child(5):hover .ff{
+	display: block;
+}
+#head .start .last li:nth-child(5) .ff{
+	display: none;
+	position: absolute;
+	top:34px;
+	left:0px;
+	width: 82px;
+	z-index: 1000;
+	background: #fff;
+}
+#head .start .last li:nth-child(5) .ff p{
+	height: 29px;
+	width: 82px;
+    line-height: 29px;
+    display: block;
+    border-bottom:1px solid #ccc;
+  	border-left: 1px solid #ccc;
+  	border-right: 1px solid #ccc;
+    box-sizing: border-box;
+}
+#head .start .last li:nth-child(5) a b{
+	position: absolute;
+    left: 62px;
+    top: 16px;
+    width: 9px;
+    height: 5px;
+    background: url(../image/index/header-01.png) -175px -111px no-repeat;
+}
+#head .start .last li:nth-child(5):hover a b{
+	background: url(../image/index/header-01.png) -175px -128px no-repeat;
+}
+#head .start .last li:nth-child(7) a,
+#head .start .last li:nth-child(9) a{
+	padding: 0 10px;
+}
+
+
+/*******************搜索栏*************************/
+header {
+	height: 120px;
+}
+header #import .one li:nth-child(1) a{
+	display: block;
+    overflow: hidden;
+    width: 215px;
+    height: 76px;
+    margin-top: 21px;
+    background: url(../image/index/header-20160223.gif) no-repeat center;
+
+}
+header #import .one li:nth-child(2){
+	width: 0px;
+	height: 70px;
+	line-height: 70px;
+	margin:22px 10px 0;
+	border-left: 1px solid #efefef;
+}
+header #import .one li:nth-child(3) a{
+	display: block;
+	width: 120px;
+    height: 80px;
+    margin-top: 21px;    
+    background: url(../image/index/8a781bb1-6b17-46dd-b835-c6ebd4fd3645.gif) 
+    no-repeat center;
+}
+header #import .two li:nth-child(1){
+	width: 498px;
+	margin-top: 40px;
+}
+header #import .two li:nth-child(1) div:first-child{
+	box-sizing: border-box;
+	width: 498px;
+	height: 34px;
+	line-height: 30px;
+	border:2px solid #323333;
+	margin-bottom: 8px;
+}
+header #import .two li:nth-child(1) div:first-child input{
+	width: 450px;
+	height: 29px;
+	padding: 0 5px;
+	box-sizing: border-box;
+	border:none;
+}
+header #import .two li:nth-child(1) div:first-child button{
+    width: 44px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    box-sizing: border-box;
+	border:none;
+    background: #323333 url(../image/index/header-01.png) 0px -78px no-repeat
+}
+header #import .two li:nth-child(1) div:last-child a{
+	margin-right:12px;
+	cursor: auto;
+}
+header #import .two li:nth-child(1) div:last-child a:last-child{
+	color: #e5004f;
+}
+header #import .two li:nth-child(2){
+    width: 160px;
+    height: 34px;
+    margin: 40px 0 0 18px;
+    position: relative;
+    box-sizing: border-box;
+}
+header #import .two li:nth-child(2) a{
+	display: block;
+    background: #323333 url(../image/index/header-01.png) -55px -76px no-repeat;
+
+}
+header #import .two li:nth-child(2) a span{
+	height: 34px;
+    line-height: 34px;
+    padding-left: 48px;
+    color: #fff;
+}
+nav{
+	position: relative;
+	height: 39px;
+	line-height: 39px;
+}
+nav ul li a{
+	display: block;
+	color: #323333;
+}
+nav ul li:nth-child(1)>a{
+    width: 210px;
+    height: 39px;
+    font-size:18px ;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    background-color: #222;
+    margin-right:20px;
+}
+nav ul li:nth-child(1) .ww{
+	position: absolute;
+	top:39px;
+	left: 0px;
+	width: 210px;
+	height: 472px;
+	background: #333;
+	color: #fff;
+	display: none;
+	z-index: 1000;
+
+}
+nav ul li:nth-child(1):hover .ww{
+	display: block;
+}
+nav ul li:nth-child(1) .ww dl{
+	height: 30px;
+	width: 210px;
+	font-size: 16px;
+}
+nav ul li:nth-child(1) .ww dl dt{
+	position: absolute;
+	top:0px;
+	left: 210px;
+	width: 495px;
+	height: 409px;
+    background: #333;
+    display: none;
+
+}
+
+
+nav ul li:nth-child(1) .ww dl:hover dt{
+	display: block;
+}
+nav ul li:nth-child(1) .ww dl dt .rr{
+	height: 399px;
+	width: 335px;
+    padding: 8px 20px 0;
+    box-sizing: border-box;
+
+}
+nav ul li:nth-child(1) .ww dl dt .rr div p a{
+	color: #fff;
+}
+nav ul li:nth-child(1) .ww dl dt .ee p a{
+    margin-right: 10px;
+    color: #fff;
+    float: left;
+    display: inline;
+    white-space: nowrap;
+    height: 24px;
+    line-height: 24px;
+    font-size: 12px;
+}
+nav ul li:nth-child(1) .ww dl dt .rr div{
+	padding: 8px 0 7px 0;
+    line-height: 20px;
+    border-bottom: 1px dotted #666;
+}
+nav ul li:nth-child(1) .ww dl dt .rr div>h3{
+    width: 295px;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;
+
+
+}
+nav ul li:nth-child(1) .ww dl dt .rr div p a{
+	display: inline;
+	font-size: 12px;
+}
+
+nav ul li:nth-child(1) .ww dl dt .ee{
+	height: 398px;
+	width:160px;
+    padding: 15px 0 15px 15px;
+    box-sizing: border-box;
+}
+
+
+
+nav ul li:nth-child(1) .ww dl dd>a{
+	height: 20px;
+	display: block;
+	float: left;
+	color: #fff;
+	line-height: 20px;
+	margin-left: 18px;
+}
+nav ul li:nth-child(1) .ww dl dd>b{
+	float: left;
+    width: 0;
+    height: 16px;
+    line-height: 16px;
+    position: relative;
+    top: 2px;
+    left: 0;
+    border-left: 1px solid #999;
+    margin: 0 8px;
+}
+nav ul li:nth-child(1) .ww dl dd>a i{
+    display: inline-block;
+    width: 17px;
+    height: 17px;
+    margin-right: 7px;
+    vertical-align: top;
+    background: url(../image/index/header-01.png) no-repeat 0px -106px;
+
+}
+nav ul li:nth-child(1) .ww dl dd .u>a{
+	color: #fff;
+	height: 20px;
+	line-height: 20px;
+	font-size: 12px;
+}
+nav ul li:nth-child(1) .ww dl dd>span{
+	float: right;
+    width: 6px;
+    height: 11px;
+    margin: 5px 15px 0 0;
+    background: url(../image/index/header-01.png) -209px -111px no-repeat;
+}
+nav ul li:nth-child(2) a,
+nav ul li:nth-child(3) a,
+nav ul li:nth-child(4) a{
+	height: 39px;
+	font-size: 16px;
+	text-align: center;
+	padding: 0 15px;
+
+}
+nav ul li:nth-child(2) a span,
+nav ul li:nth-child(3) a span,
+nav ul li:nth-child(4) a span{
+	height: 26px;
+	padding:10px 10px 0;
+	font-size: 16px;
+	line-height: 26px;
+	text-align: center;
+	display: block;
+}
+nav ul li:nth-child(2) a span:hover,
+nav ul li:nth-child(3) a span:hover,
+nav ul li:nth-child(4) a span:hover{
+	border-bottom:3px solid #e5004f;
+}
+nav ul li:nth-child(5) a,
+nav ul li:nth-child(7) a{
+	margin:0 8px;
+	font-size: 14px;
+}
+nav ul li:nth-child(6){
+	width: 0px;
+	height: 12px;
+	line-height: 14px;
+	position: relative;
+	top: 14px;
+	left: 0;
+	border-left: 1px solid #ccc;
+	margin: 0 2px;
+}
+/**************main******************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
